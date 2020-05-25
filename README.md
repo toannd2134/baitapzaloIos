@@ -4,4 +4,5 @@ Giao diện Zalo Ios swift
 
 
 
-![42q8wq](https://user-images.githubusercontent.com/59416155/82789995-7cd6f780-9e95-11ea-8f59-d5b1a9ecd3ef.gif)
+![42qay8](https://user-images.githubusercontent.com/59416155/82791850-aba29d00-9e98-11ea-90b5-fc3ddf988963.gif)
+
